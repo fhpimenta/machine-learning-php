@@ -1,0 +1,12 @@
+{
+    "name": "felipe/classificador-noticias",
+    "require": {
+        "php-ai/php-ml": "^0.6.2"
+    },
+    "authors": [
+        {
+            "name": "Felipe Pimenta",
+            "email": "fhpimenta12@gmail.com"
+        }
+    ]    
+}
